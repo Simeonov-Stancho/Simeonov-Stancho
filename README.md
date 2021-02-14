@@ -1,5 +1,5 @@
 ### Hi there I'm Stancho Simeonov and I’m studing Software Engineering with C# in SoftwareUniversity.
-![](WorkSpace.gif)
+![](Maniac.gif = 250*250)
 
 <!--
 **Simeonov-Stancho/Simeonov-Stancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
