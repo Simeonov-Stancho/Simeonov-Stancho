@@ -1,5 +1,6 @@
-### Studing Software Engineering with C# in SoftwareUniversity.
-![](Maniac.gif)
+                                    Studing Software Engineering with C# in SoftwareUniversity.
+
+<img src="Maniac.gif" width="2000" height="200">
 
 <!--
 **Simeonov-Stancho/Simeonov-Stancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
