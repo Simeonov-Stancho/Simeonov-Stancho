@@ -1,5 +1,3 @@
-<img src="Maniac.gif" width="500" height="200">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simeonov-Stancho&theme=dark&show_icons=true)   
 
 
@@ -26,6 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="Maniac.gif" width="500" height="200">
 -->
 
 
