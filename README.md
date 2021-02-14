@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Stancho Simeonov and I’m studing Software Engineering with C# in SoftwareUniversity.
+![](Maniac.gif)
 
 <!--
 **Simeonov-Stancho/Simeonov-Stancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
