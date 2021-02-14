@@ -1,4 +1,4 @@
-<img src="Maniac.gif" width="2000" height="200">
+<img src="Maniac.gif" width="500" height="200">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simeonov-Stancho&theme=dark&show_icons=true)   
 
