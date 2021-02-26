@@ -1,4 +1,7 @@
+![](https://komarev.com/ghpvc/?username=Simeonov-Stancho-github-username&label=PROFILE+VIEWS)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simeonov-Stancho&theme=dark&show_icons=true)   
+
 
 
 | 💻Courses  | 🎓 Certificates |
