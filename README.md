@@ -11,6 +11,7 @@
 | C# Advanced | [✔️ C# Advanced 2021](https://softuni.bg/certificates/details/90345/01e3dd2a)  |
 |  C# OOP | [✔️ C# OOP 2021](https://softuni.bg/certificates/details/95788/f1f8bd05)  |
 |  MS SQL | [✔️ MS SQL 2021](https://softuni.bg/certificates/details/97824/c2876cb4)  |
+|  EF Core | [✔️ Entity Framework Core 2021](https://softuni.bg/certificates/details/102655/23a26730)  |
   
   
   
