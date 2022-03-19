@@ -12,7 +12,7 @@
 |  C# OOP | [✔️ C# OOP 2021](https://softuni.bg/certificates/details/95788/f1f8bd05)  |
 |  MS SQL | [✔️ MS SQL 2021](https://softuni.bg/certificates/details/97824/c2876cb4)  |
 |  EF Core | [✔️ Entity Framework Core 2021](https://softuni.bg/certificates/details/102655/23a26730)  |
-  
+|  JS Advance | [✔️ JS Advance 2021](https://softuni.bg/certificates/details/114868/569b240a)  |  
   
   
   
